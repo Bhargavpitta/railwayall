@@ -2,7 +2,7 @@ export default function Home() {
   const items = [
     {
       name: "Banaras Locomotive Works (BLW)",
-      url: "https://banaras-locomotive-works.vercel.app/",
+      url: "https://banaras-locomotive-works1.vercel.app/",
     },
     {
       name: "Rail Coach Factory, Kapurthala (RCF)",
@@ -10,7 +10,7 @@ export default function Home() {
     },
     {
       name: "Modern Coach Factory, Raebareli (MCF)",
-      url: "https://modern-coach-factory1.vercel.app/",
+      url: "https://moderncoachfactory2.vercel.app/",
     },
     {
       name: "Rail Wheel Plant, Bela (RWP)",
