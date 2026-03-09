@@ -2,7 +2,7 @@ export default function Home() {
   const items = [
     {
       name: "Banaras Locomotive Works (BLW)",
-      url: "https://banaras-locomotive-works1.vercel.app/",
+      url: "https://banaraslocomotiveworks1.vercel.app/",
     },
     {
       name: "Rail Coach Factory, Kapurthala (RCF)",
